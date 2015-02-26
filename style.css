@@ -71,15 +71,6 @@ header button:hover {
 .footer:hover {
   background: #222;
 }
-.ga {
-  background-image: url('logo.png');
-  width: 25px;
-  height: 24px;
-  background-size: 25px;
-  color: rgba(255,255,255,0);
-  display: inline-block;
-}
-
 .social-share {
   padding-top: 20px;
   display: none;
